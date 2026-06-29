@@ -5,5 +5,3 @@ matplotlib
 scipy
 sympy
 requests
-re
-math
